@@ -1,0 +1,5 @@
+2.Create an entity Employee with following variables.
+	A.emp_name;
+	B.emp-id;
+	C.emp_department;
+-inject the all dependencies by using Constructor methods.
